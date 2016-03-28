@@ -1,3 +1,4 @@
+var base = "https://googledrive.com/host/0B_gmtT8KQkzOSnNlQkxNNEJLWmc";
 var shuffleBtn = O("shuffleBtn");
 var songSelection = O("songSelection");
 var audioPlayer = O("audioPlayer");
